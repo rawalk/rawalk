@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Kush, I'm a synthetic biologist who is trying to develop bioinformatics chops. During the day I'm working on making dogs live longer and feel younger; And at night I'm coding away at Lambda School. 
+
+- 👯 I’m looking to collaborate on bioinformatics projects. 
+- 💬 Ask me about Anything. 
+- 📫 How to reach me: kush.rawal -- at -- hotmail.com
+- 😄 Pronouns: He / Him. 
+- ⚡ Fun fact: I was born in Mombasa, Kenya. 
